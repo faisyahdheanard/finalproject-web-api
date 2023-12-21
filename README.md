@@ -63,4 +63,4 @@ These commands will run the Cucumber tests with the specified configurations and
 
 - Selenium: The web automation library used for interacting with web elements and performing actions on web pages.
 - Cucumber: A BDD testing framework that allows tests to be written in a natural language format (Gherkin) and executed using step definitions written in Java.
-- Gradle: The build tool used for managing dependencies and building the project.
+- Gradle: The build tool used for managing dependencies and building the project
